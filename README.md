@@ -12,7 +12,7 @@ Each dataset consists of:
 - one `.gfa` variation-graph file in GFA (Graphical Fragment Assembly) format
 - one corresponding `-T.json` snarl file
 
-The `-T.json` file contains the precomputed snarl tuples produced by `vg tool` and used as input by the pipeline.
+The `-T.json` file contains the snarl information produced by the `vg tool` and used as input by the pipeline.
 
 ## Usage
 
