@@ -125,6 +125,26 @@ pip install "networkx>=3.3"
 
 The commands above use Windows-style paths.
 
-## Citation
+## Citing UltraLCA-2
 
-If you use this code, please cite the corresponding paper or report when available.
+### Citation
+
+If you use this code, please cite the paper:
+
+Zisis, A. E., & Sætrom, P. (2026). A rooted tree framework for linear time ultrabubble detection.  
+https://arxiv.org/abs/2609.14852
+
+### BibTeX
+
+```bibtex
+@misc{zisis2026rootedtreeframework,
+      title={A rooted tree framework for linear time ultrabubble detection},
+      author={Athanasios E. Zisis and Pål Sætrom},
+      year={2026},
+      eprint={2609.14852},
+      archivePrefix={arXiv},
+      primaryClass={cs.DS},
+      doi={10.48550/arXiv.2609.14852},
+      url={https://arxiv.org/abs/2609.14852}
+}
+```
