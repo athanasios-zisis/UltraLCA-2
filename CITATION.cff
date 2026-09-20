@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "UltraLCA-2"
+
+authors:
+  - family-names: "Zisis"
+    given-names: "Athanasios E."
+    orcid: "https://orcid.org/0009-0000-8691-0993"
+  - family-names: "Sætrom"
+    given-names: "Pål"
+    orcid: "https://orcid.org/0000-0001-8142-7441"
+
+repository-code: "https://github.com/athanasios-zisis/UltraLCA-2"
+
+preferred-citation:
+  type: generic
+  title: "A rooted tree framework for linear time ultrabubble detection"
+  authors:
+    - family-names: "Zisis"
+      given-names: "Athanasios E."
+      orcid: "https://orcid.org/0009-0000-8691-0993"
+    - family-names: "Sætrom"
+      given-names: "Pål"
+      orcid: "https://orcid.org/0000-0001-8142-7441"
+  year: 2026
+  doi: "10.48550/arXiv.2609.14852"
+  url: "https://arxiv.org/abs/2609.14852"
